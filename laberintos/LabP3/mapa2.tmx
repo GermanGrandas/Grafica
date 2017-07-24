@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="34" height="21" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="fondo" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <image source="fondo.png" width="320" height="320"/>
+  <tile id="0">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="muro" type="int" value="3"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="34">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="muro" type="int" value="5"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="muro" type="int" value="0"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="42">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="43">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="50">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="51">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="52">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="53">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="55">
+   <properties>
+    <property name="muro" type="int" value="4"/>
+   </properties>
+  </tile>
+  <tile id="60">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="61">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="62">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="63">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="71">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="73">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="74">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="75">
+   <properties>
+    <property name="muro" type="int" value="4"/>
+   </properties>
+  </tile>
+  <tile id="80">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="81">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="82">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="83">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="84">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="85">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="86">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="87">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="91">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="92">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="93">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="94">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="95">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="96">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="97">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+  <tile id="98">
+   <properties>
+    <property name="muro" type="int" value="2"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="mapa1" width="34" height="21">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,40,40,40,40,40,40,40,1,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,1,
+1,40,40,40,40,40,40,40,1,25,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,1,
+1,40,40,40,40,40,40,40,1,35,36,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,1,
+1,40,40,40,40,81,22,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,40,40,40,40,40,40,40,40,1,
+1,40,40,40,40,91,40,40,40,40,40,40,40,40,40,40,40,40,87,88,89,40,40,40,1,40,40,40,40,40,40,40,40,1,
+1,40,40,40,40,1,40,40,40,40,40,40,40,40,40,40,40,40,97,98,99,40,40,40,1,40,40,40,40,40,40,40,40,1,
+1,40,40,40,40,1,1,1,1,1,1,1,1,1,40,40,40,40,40,40,40,40,40,40,1,43,44,40,40,40,40,40,40,1,
+1,40,40,40,40,1,40,40,40,40,40,40,40,1,40,40,40,40,40,40,40,40,40,40,1,53,54,40,40,40,40,40,40,1,
+1,40,40,40,40,1,40,40,40,40,40,40,40,1,40,40,40,40,40,40,40,40,40,40,1,1,1,1,1,1,1,22,1,1,
+1,40,40,40,40,1,40,40,40,40,40,40,40,1,40,40,40,40,82,40,40,40,40,40,40,40,40,40,1,40,40,40,40,1,
+1,40,40,40,40,1,40,40,40,1,40,40,40,1,40,40,40,40,92,40,40,40,40,40,40,40,40,40,1,40,40,40,40,1,
+1,40,40,40,40,40,40,40,40,1,40,40,40,1,1,1,1,1,1,1,1,1,1,1,40,40,40,40,1,40,40,40,40,1,
+1,40,40,40,40,40,40,40,40,1,40,40,40,40,40,40,40,40,1,40,40,40,40,1,40,40,40,40,1,40,40,40,40,1,
+1,1,1,1,1,1,1,1,1,1,83,40,40,40,40,40,40,40,1,40,56,40,40,1,40,40,40,40,1,40,40,40,40,1,
+1,56,40,40,40,40,40,40,40,1,93,40,40,40,40,40,40,40,1,40,40,40,40,1,40,40,40,40,40,40,40,40,40,1,
+1,40,40,40,40,40,40,40,40,1,1,1,1,1,1,40,40,40,1,40,40,40,40,1,40,40,40,40,40,40,40,40,40,1,
+1,40,40,40,1,40,40,40,40,40,40,40,40,40,40,40,40,40,1,40,40,40,40,40,40,40,40,40,40,40,2,3,40,1,
+1,84,85,86,1,83,40,40,40,40,40,40,40,40,40,40,40,40,1,40,40,40,40,40,40,40,40,40,1,40,12,13,40,1,
+1,94,95,96,1,93,40,40,40,40,40,40,40,40,40,40,40,40,1,40,40,40,40,40,40,40,40,40,1,40,40,40,40,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+</data>
+ </layer>
+</map>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="20" height="15" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="fondo" tilewidth="32" tileheight="32" tilecount="240" columns="16">
+  <image source="../Lab3/fondo.png" width="512" height="480"/>
+  <tile id="2">
+   <properties>
+    <property name="muro" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="muro" type="int" value="0"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="20" height="15">
+  <data encoding="csv">
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+3,3,3,3,3,3,3,7,3,3,3,3,3,7,3,3,3,7,7,3,
+3,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+3,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+3,7,7,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,3,
+3,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+3,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+3,3,3,3,3,3,3,3,7,7,3,3,3,3,3,3,3,7,7,3,
+7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+</data>
+ </layer>
+</map>
